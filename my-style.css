@@ -56,7 +56,7 @@ header {
   }
 
 nav a:hover{
-background:rgb(0, 45, 128);
+background:rgb(186, 192, 202);
 transition:0.5s;
 text-transform: uppercase;
 
