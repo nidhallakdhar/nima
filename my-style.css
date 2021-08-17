@@ -51,7 +51,7 @@ header {
     }
   
     header video {
-      display: none;
+      display: yes;
     }
   }
 
