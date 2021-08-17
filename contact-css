@@ -1,0 +1,6 @@
+ nav a:hover{
+background:purple;
+transition:0.5s;
+text-transform: uppercase;
+
+ }
