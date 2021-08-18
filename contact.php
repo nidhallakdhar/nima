@@ -1,4 +1,3 @@
-
 <?php
 $VotreAdresseMail="nimacom2021@gmail.com";//mettez ici votre adresse mail
 if(isset($_POST['envoyer'])) { // si le bouton "Envoyer" est appuyé
