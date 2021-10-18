@@ -1,2 +1,0 @@
-# nima
-nimacom site web
